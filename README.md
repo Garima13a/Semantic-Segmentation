@@ -1,6 +1,6 @@
-# Training ERFNet in Pytorch (SSCV IIITH 2K19)
+# Training ERFNet in Pytorch 
 
-PyTorch code for training ERFNet model on Cityscapes. The code was based initially on the code from [bodokaiser/piwise](https://github.com/bodokaiser/piwise), adapted with several custom added modifications and tweaks. Some of them are:
+PyTorch code for training ERFNet model on Cityscapes. The code was based initially on the code from [bodokaiser/piwise](https://github.com/bodokaiser/piwise), adapted with several custom added modifications and tweaks(SSCV IIITH 2K19). Some of them are:
 - Load cityscapes dataset
 - ERFNet model definition
 - Calculate IoU on each epoch during training
